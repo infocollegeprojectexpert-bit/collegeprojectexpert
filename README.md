@@ -16,6 +16,39 @@ We help:
 🌐 **Website**  
 https://collegeprojectexpert.in
 
+
+---
+
+## 📱 Mobile
+
++91 9420597784
+
+Call or message for project support.
+
+---
+
+## 💬 WhatsApp Support
+
+Chat directly on WhatsApp for quick help.
+
+https://wa.me/919420597784?text=Hi%20I%20need%20help%20with%20final%20year%20project
+
+---
+## 📧 Email
+
+info.collegeprojectexpert@gmail.com
+
+Send project requirements, thesis queries, or custom development requests.
+
+---
+
+## 🌐 Website
+
+https://collegeprojectexpert.in
+
+Explore **AI, ML, Python, IoT, Android and Web Development Final Year Projects**.
+
+
 ---
 
 # 🔎 Browse All Projects
